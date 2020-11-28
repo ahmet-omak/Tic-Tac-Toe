@@ -18,7 +18,7 @@ namespace Tic_Tac_Toe
             InitializeComponent();
         }
 
-        #region INSTANCES
+        #region GLOBAL VARIABLES
         Graphics draw;
 
         Form2 exitForm;
@@ -261,7 +261,7 @@ namespace Tic_Tac_Toe
         }
         #endregion
 
-        //UPDATE FUNC.
+        //Update game per 100 ms.
         private void Update_Tick(object sender, EventArgs e)
         {
             WhoIsPlaying(xPlays);
@@ -330,8 +330,8 @@ namespace Tic_Tac_Toe
             }
         }
 
-        //LOAD FUNC.
-        private void Form1_Load(object sender, EventArgs e)
+        //Load Screen
+        private void LoadScreen(object sender, EventArgs e)
         {
             lockedPanels = new bool[] { false, false, false, false, false, false, false, false, false };
             indexPanels = new int[] { -1, -2, -3, -4, -5, -6, -7, -8, -9 };
@@ -339,7 +339,7 @@ namespace Tic_Tac_Toe
             label1.Text = "X IS PLAYING!";
         }
 
-        //Makes Sound When A Panel Has Been Selected
+        //Make sound when one of the panels selected
         private void MakeSound()
         {
             selectSound = new WindowsMediaPlayer();
@@ -347,7 +347,7 @@ namespace Tic_Tac_Toe
             selectSound.controls.play();
         }
 
-        //Determines Who's Playing
+        //Determine who's playing
         private void WhoIsPlaying(bool player)
         {
             if (player == true)
@@ -371,7 +371,7 @@ namespace Tic_Tac_Toe
             return sum;
         }
 
-        //Blinks When Game Is Over
+        //Blink when game is over
         private void Shine(Panel a, Panel b, Panel c)
         {
             Panel[] panels = { a, b, c };
@@ -381,7 +381,7 @@ namespace Tic_Tac_Toe
             }
         }
 
-        //Changes Panels Colors
+        //Change panels colors
         private void Colorized(Color c)
         {
             panel10.BackColor = c;

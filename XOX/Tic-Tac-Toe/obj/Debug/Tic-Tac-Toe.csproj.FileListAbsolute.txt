@@ -11,3 +11,16 @@ C:\Users\tulay\OneDrive\Desktop\.Net\XOX\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
 C:\Users\tulay\OneDrive\Desktop\.Net\XOX\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form2.resources
 C:\Users\tulay\OneDrive\Desktop\.Net\XOX\Tic-Tac-Toe\obj\Debug\Interop.WMPLib.dll
 C:\Users\tulay\OneDrive\Desktop\.Net\XOX\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.ResolveComReference.cache
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\obj\Debug\Interop.WMPLib.dll
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.ResolveComReference.cache
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form2.resources
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\ahmet\OneDrive\Desktop\Github\Tic-Tac-Toe\XOX\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
